@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi Guys, What´s up? 👋
 
-<!--
-**JumaraFernandes/JumaraFernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I´m Jumara Fernandes, students of Tecnology. I really love database and software engineering.
 
-Here are some ideas to get you started:
+🇸🇹 Born in Sao Tome <br>
+🇵🇹 Living in Portugal <br>
+📚 Studying in [IPB-EsACT](www.ipb.pt) <br>
+💻 Degree in informatics and communications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤞 Find Me:
+- [GitHub](www.github.com/JumaraFernandes)
+- [Linkedin](https://www.linkedin.com/in/jumara-andrade-086bb019b/)
+- [Instagrm](https://www.instagram.com/jumara_fernandes3/?hl=pt)
+- [Email](mailto:jumarafernandes4@gmail.com)
